@@ -7,6 +7,8 @@ poster summing up Thursday 19 November 2026, and a repo holding the poster it co
 [![rank](https://make.fun/badge/news-image-20261119/egirasyid/news-image-19nov-2026/rank.svg)](https://make.fun/c/news-image-20261119)
 [![reward](https://make.fun/badge/news-image-20261119/egirasyid/news-image-19nov-2026/reward.svg)](https://make.fun/c/news-image-20261119)
 
+Bounty page: [make.fun/bounty/news-image-20261119](https://make.fun/bounty/news-image-20261119).
+
 ## What it is
 
 `entry.png` is a dark editorial poster titled **19 NOVEMBER 2026** with six cards, one per
